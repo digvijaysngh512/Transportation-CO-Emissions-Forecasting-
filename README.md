@@ -24,7 +24,7 @@ What is the environmental impact of your distribution network?
 
 ## **Objective**
 
-1. Based on this formula, we collect and process data to calculate the emissions.
+1. Based on this formula{PNG), we collect and process data to calculate the emissions.
 
 
 2. We calculate the unit of measure conversions considering the shipped handling units.
@@ -40,6 +40,7 @@ What is the environmental impact of your distribution network?
   Built a deep learning image captioning model using Flickr8k dataset, VGG16 CNN, and LSTM.
  Analyzed 10,000+ transportation records; key drivers- fuel type (35% impact), distance (27%), and vehicle (22%).
  Delivered insights on high emission vehicles 2.3× more carbon than their alternatives, guiding reduction strategies.|
+
 
 
 
