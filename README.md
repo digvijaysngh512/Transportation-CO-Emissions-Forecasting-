@@ -56,35 +56,8 @@ Following the protocol the French Environmental Agency Ademe (Link), the formula
 
 
 
-## **Exemples of visuals using PowerBI**
-
-### Bubble map with size = f(CO2 Total)
-<p align="center">
-  <img alt="A map visualization showing various cities in Europe, marked with blue bubbles. The size of the bubbles represents the total CO2 emissions. Locations include cities in the UK, France, and Germany, illustrating CO2 emissions across different regions of Europe." align="center" src="images/bubble map.png" width=75%>
-</p>
-<p align="center">Bubble Map</p>
-
-_Visual Insights_
-
-You can observe where you have the majority of CO2 emissions (large bubbles) with a color coding by transportation mode.
-
-### Split by Country Destination and Item Code
-<p align="center">
-  <img alt="" align="center" src="images/bar chart.png" width=75%>
-</p>
-<p align="center">Bar Chart</p>
-
-**Product Portfolio Insights**
-For each market, which item has the highest environmental impact?
-
-_Product Portfolio Insights_
-
-For each market, which item has the highest environmental impact?
-
-### CO2 = f(Turnover) by City Destination
-<p align="center">
-  <img alt="A bar chart with horizontal bars representing the total CO2 emissions by customer country. Germany has the highest emissions, followed by the United Kingdom, France, Bulgaria, and Mauritania." align="center" src="images/scatter plot.png" width=75%>
-</p>
-<p align="center">Scatter Plot</p>
-
+## #Conclusion
+  Built a deep learning image captioning model using Flickr8k dataset, VGG16 CNN, and LSTM.
+ Analyzed 10,000+ transportation records; key drivers- fuel type (35% impact), distance (27%), and vehicle (22%).
+ Delivered insights on high emission vehicles 2.3× more carbon than their alternatives, guiding reduction strategies.|
 
