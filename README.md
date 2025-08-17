@@ -1,4 +1,4 @@
-#Transportation-CO-Emissions-Forecasting-
+# Transportation-CO-Emissions-Forecasting-
 
 <p align="center">
   <img alt="The image shows a supply chain sustainability report illustrating CO2 emissions from different transportation methods. A distribution center supplies goods to customers through three routes: (1) via road (120 km), air (1450 km), and road again (700 km); (2) directly by road for 200 km; and (3) through road, sea, and road again. Each mode of transportation highlights the distances, representing the CO2 emissions linked to the transportation network’s sustainability calculated with Python." align="center" src="images/intro.png" width=75%>
@@ -60,4 +60,5 @@ Following the protocol the French Environmental Agency Ademe (Link), the formula
   Built a deep learning image captioning model using Flickr8k dataset, VGG16 CNN, and LSTM.
  Analyzed 10,000+ transportation records; key drivers- fuel type (35% impact), distance (27%), and vehicle (22%).
  Delivered insights on high emission vehicles 2.3× more carbon than their alternatives, guiding reduction strategies.|
+
 
