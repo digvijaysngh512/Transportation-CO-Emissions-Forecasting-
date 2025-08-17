@@ -12,14 +12,6 @@ Investors have placed an increased emphasis on business sustainability when asse
 
 Therefore, more organizations are investing resources to build capabilities for sustainability reporting and determine the best strategies for a sustainable supply chain.
 
-### Youtube Video
-Click on the GIF below to access a short explainer video to understand the concept behind this solution
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=yodNWnf7PQ0"><img src="https://github.com/samirsaci/supply-chain-sustainability/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
-</div>
-
-## **Article**
-In this [Article](https://medium.com/towards-data-science/supply-chain-sustainability-reporting-with-python-161c1f63f267), we will introduce a simple methodology to **report the CO2 emissions of your Distribution Network** using **Python and PowerBI**.
 
 ## **Definition**
 Based on the GHG Protocol corporate standard (Link), greenhouse gas emissions are classified into three scopes:
@@ -96,15 +88,3 @@ For each market, which item has the highest environmental impact?
 </p>
 <p align="center">Scatter Plot</p>
 
-_Financial Insights_
-
-The impacts of your future efforts for CO2 Emission reductions on profitability will be higher for the customers in PEINE-WOLTORF.
-
-# Code
-This repository code you will find all the code used to explain the concepts presented in the article.
-
-## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/). \
-
-Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
