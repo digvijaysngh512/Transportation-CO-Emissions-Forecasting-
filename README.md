@@ -20,13 +20,7 @@ Based on the GHG Protocol corporate standard (Link), greenhouse gas emissions ar
 In this article, we will focus on the Scope 3 calculations related to downstream transportation.
 What is the environmental impact of your distribution network?
 
-## **Formula**
-Following the protocol the French Environmental Agency Ademe (Link), the formula to estimate the CO2 emissions of transportation is:
 
-<p align="center">
-  <img alt="A mathematical formula to calculate CO2 emissions based on emissions factors. The formula is structured as follows: “CO2 Emissions = Distance × Weight × Emission Factor.” This equation calculates the carbon dioxide emissions by multiplying the distance traveled by the weight of the goods transported and the emission factor (representing the rate of emissions per unit of weight and distance). The formula is used in the context of transportation-related emissions calculations." align="center" src="images/equation.png" width=75%>
-</p>
-<p align="center">Formula using Emission Factor</p>
 
 ## **Objective**
 
@@ -46,6 +40,7 @@ Following the protocol the French Environmental Agency Ademe (Link), the formula
   Built a deep learning image captioning model using Flickr8k dataset, VGG16 CNN, and LSTM.
  Analyzed 10,000+ transportation records; key drivers- fuel type (35% impact), distance (27%), and vehicle (22%).
  Delivered insights on high emission vehicles 2.3× more carbon than their alternatives, guiding reduction strategies.|
+
 
 
 
